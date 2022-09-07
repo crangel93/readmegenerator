@@ -1,15 +1,15 @@
 
 # Project Title 
 
-## Robot Gladiators
+## Read Me Generator
 
 # Description
 
-## A fun way to battle robots
+## A inquirer application to create a readme generator
 
 # Install Instructions
 
-## Works in the browser through window prompts
+## clone repo
 
 # Usage Information
 
