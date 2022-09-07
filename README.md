@@ -5,11 +5,11 @@
 
 # Description
 
-## A inquirer application to create a readme generator
+## A inquirer application to create a readme generator, made using node.
 
 # Install Instructions
 
-## clone repo
+## clone repo and run node prompt.js and enter the prompts and it will give you a readme.md
 
 # Usage Information
 
